@@ -41,4 +41,3 @@ python movie_rating_prediction.py
 Built as part of the Intern Orbit Data Science Internship - Level 1 Task 1.
 ```
 
-Paste this as a file named `README.md` in your repository.
