@@ -1,12 +1,9 @@
-# INTERNORBIT
-Movie Rating Prediction using Python  Predicts IMDb movie ratings based on genre, director, and actors using regression models (Linear Regression, Random Forest, Gradient Boosting). Built with the IMDb India dataset. Best model: Gradient Boosting with R2 = 0.334 and MAE = 0.851.
-Here's a clean README you can copy directly:
+Here's the exact content to paste in your README. Delete everything currently in it and replace with this:
 
 ```markdown
 # Movie Rating Prediction with Python
 
-A machine learning project that predicts IMDb movie ratings based on 
-genre, director, and actors.
+A machine learning project that predicts IMDb movie ratings based on genre, director, and actors.
 
 ## Dataset
 IMDb India Movies Dataset (15,509 movies)
@@ -25,19 +22,16 @@ IMDb India Movies Dataset (15,509 movies)
 
 Gradient Boosting performed best with R2 = 0.334 and MAE = 0.851.
 
-## Features
-- Year, Duration, Genre, Director, Actor 1, Actor 2, Actor 3, Votes
+## Features Used
+Year, Duration, Genre, Director, Actor 1, Actor 2, Actor 3, Votes
 
 ## Libraries
-- pandas, numpy, scikit-learn, matplotlib
+pandas, numpy, scikit-learn, matplotlib
 
 ## How to Run
-```bash
 pip install pandas numpy scikit-learn matplotlib
 python movie_rating_prediction.py
-```
 
 ## Internship
 Built as part of the Intern Orbit Data Science Internship - Level 1 Task 1.
 ```
-
