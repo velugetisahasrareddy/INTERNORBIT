@@ -1,5 +1,3 @@
-Here's the exact content to paste in your README. Delete everything currently in it and replace with this:
-
 ```markdown
 # Movie Rating Prediction with Python
 
